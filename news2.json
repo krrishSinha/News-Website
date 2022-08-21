@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 5203,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Sarfaraz Khan: The 'wandering cricketer' on the road to stardom",
+            "description": "Sarfaraz Khan's heavy scoring in domestic cricket has him knocking on the doors of Indian cricket.",
+            "url": "https://www.bbc.co.uk/news/world-asia-india-61977063",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4024/production/_125702461_gettyimages-1236953409.jpg",
+            "publishedAt": "2022-07-02T23:50:32Z",
+            "content": "By Saurabh SomaniSports writer\r\nBefore India's squad for the 2014 Under-19 cricket World Cup left Bangalore, Naushad Khan had come down to the city to meet his son. \r\nSarfaraz Khan had found a spot a… [+5088 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Women's tests should be played over five days, says ICC's Barclay - Reuters",
+            "description": "International Cricket Council (ICC) chair Greg Barclay said women's test matches should be played over five days, but raised doubts over the place of the longer format in the future of women's cricket.",
+            "url": "https://www.reuters.com/lifestyle/sports/womens-tests-should-be-played-over-five-days-says-iccs-barclay-2022-06-04/",
+            "urlToImage": "https://www.reuters.com/resizer/YzNEE8wi2_c0XueuQJkUc2Ifp68=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NNW3L43O4NJUDCE6BIZH6KL5LU.jpg",
+            "publishedAt": "2022-06-04T03:36:00Z",
+            "content": "June 4 (Reuters) - International Cricket Council (ICC) chair Greg Barclay said women's test matches should be played over five days, but raised doubts over the place of the longer format in the futur… [+1825 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Yorkshire charged by ECB after investigation into racism claims - Reuters.com",
+            "description": "Yorkshire County Cricket Club and a number of individuals have been charged following an investigation into racism claims made by former player Azeem Rafiq, the England and Wales Cricket Board said on Wednesday, without naming the people in question.",
+            "url": "https://www.reuters.com/lifestyle/sports/yorkshire-charged-by-ecb-after-investigation-into-racism-claims-2022-06-15/",
+            "urlToImage": "https://www.reuters.com/resizer/6WzKyHpnkZoiUZtrIt8aSyzVTi0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RMEG7MPQ4FIVJPBK6CEOX6RGAI.jpg",
+            "publishedAt": "2022-06-15T13:28:00Z",
+            "content": "June 15 (Reuters) - Yorkshire County Cricket Club and a number of individuals have been charged following an investigation into racism claims made by former player Azeem Rafiq, the England and Wales … [+1947 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Twitter Employees Aren't Going to Disney, But They Will Get a Visit From a Clown Called 'Musk'",
+            "description": "Twitter employees singing “when you wish upon a star” seem to have accidentally performed an eldritch rite, and instead of summoning a magical cricket to whisk them away to a land of fun and wonder, employees have summoned the world’s richest billionaire to t…",
+            "url": "https://gizmodo.com/twitter-disney-elon-musk-1849070372",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7b7317ddafdce1b81130cc1a6620c6a1.jpg",
+            "publishedAt": "2022-06-16T14:35:00Z",
+            "content": "Twitter employees singing when you wish upon a star seem to have accidentally performed an eldritch rite, and instead of summoning a magical cricket to whisk them away to a land of fun and wonder, em… [+2265 chars]"
+        }
+    ]
+}        
